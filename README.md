@@ -30,12 +30,12 @@ The project applies basic Human–Computer Interaction (HCI) and user-centered d
 ## My Contributions
 
 * Implemented the group-designed interface using HTML and CSS
-*Converted provided UI designs into functional static web pages
-*Developed multiple interconnected website pages
-*Created responsive layouts for different screen sizes
-*Maintained consistent styling across the website
-*Implemented navigation, cards, forms, dashboards, and other interface components
-* Created multiple responsive web pages
+* Converted provided UI designs into functional static web pages
+* Developed multiple interconnected pages for the platform
+* Created responsive layouts for different screen sizes
+* Maintained consistent styling across the website
+* Implemented navigation, cards, forms, dashboards, and other interface components
+
 
 ## Technologies
 
