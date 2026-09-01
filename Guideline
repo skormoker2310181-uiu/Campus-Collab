@@ -1,0 +1,31 @@
+CampusCollab 
+
+PUBLIC
+Home -> Register / Login / Gigs / Projects
+Register -> Onboarding 1 -> 2 -> 3 -> 4 -> 5 -> 6 -> Dashboard
+
+STUDENT
+Dashboard
+|- Find Gigs -> Gig Details -> Submit Proposal
+|- Post Gig -> Gig Details -> Proposal Management
+|- Explore Projects -> Project Details -> Team Management
+|- Create Project -> Project Details
+|- Find Students -> Student Profile
+|- Messages
+|- Notifications
+|- Portfolio
+|- Reviews
+|- Settings
+
+ADMIN
+Admin Dashboard
+|- Users
+|- Gigs
+|- Projects
+|- Proposals
+|- Skills
+|- Categories
+|- Reports
+|- Reviews
+|- Analytics
+|- Settings
