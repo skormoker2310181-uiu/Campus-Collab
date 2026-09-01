@@ -1,87 +1,54 @@
+# CampusCollab
 
+A student-focused collaboration platform prototype designed to help university students discover opportunities, connect with peers, and collaborate on academic and creative projects.
 
+## Overview
 
-CampusCollab
-CampusCollab is a responsive front-end website concept designed to help university students discover opportunities, connect with other students, explore collaborative projects, and manage campus-related activities in one place.
+CampusCollab is a front-end web design project focused on creating a simple and user-friendly platform for university students. The interface allows students to explore gigs, discover projects, find collaborators, and manage campus-related activities through a consistent and responsive design.
 
-This version is built entirely with HTML5 and CSS3.
+The project applies basic Human–Computer Interaction (HCI) and user-centered design principles to improve discoverability, usability, and navigation.
 
-About the Project
-Students often use several disconnected platforms to look for freelance work, find teammates, discover projects, and communicate with others. CampusCollab explores a single student-focused interface that brings these activities together.
+## Objectives
 
-The project focuses on creating an interface that is:
+* Simplify student collaboration
+* Help students discover campus opportunities
+* Improve peer and project discoverability
+* Design an intuitive and consistent interface
+* Apply Human–Computer Interaction principles
 
-Simple and easy to navigate
+## Features
 
-Consistent across pages
+* Browse Student Gigs
+* View Gig Details
+* Explore Projects
+* Find Students and Collaborators
+* Student Dashboard
+* Messaging Interface
+* Notifications
+* Login and Registration Interfaces
 
-Responsive across different screen sizes
+## My Contributions
 
-Clear in its visual hierarchy
+* Implemented the group-designed interface using HTML and CSS
+*Converted provided UI designs into functional static web pages
+*Developed multiple interconnected website pages
+*Created responsive layouts for different screen sizes
+*Maintained consistent styling across the website
+*Implemented navigation, cards, forms, dashboards, and other interface components
+* Created multiple responsive web pages
 
-Suitable for a university collaboration platform
+## Technologies
 
-Main Features
-The interface includes concepts for:
+* HTML5
+* CSS3
 
-Student-focused landing page
+## Skills Demonstrated
 
-Browsing campus gigs and opportunities
-
-Viewing gig details
-
-Exploring student projects
-
-Finding students and potential collaborators
-
-Student dashboard
-
-Messaging interface
-
-Notifications
-
-Login
-
-Registration
-
-These features are currently represented as front-end interface designs. They do not have backend functionality.
-
-Built With
-HTML5
-
-CSS3
-
-Flexbox
-
-CSS Grid
-
-Responsive Media Queries
-
-
-Project Type
-Static Front-End 
-
-CampusCollab currently demonstrates the visual design and page structure of the proposed platform. Features such as authentication, messaging, search, application submission, and data storage are not functional in this HTML/CSS version.
-
-
-Design Considerations
-CampusCollab was designed around several basic Human-Computer Interaction and UI principles:
-
-Discoverability
-Major actions and navigation options are placed where users can find them easily.
-
-Consistency
-Similar cards, buttons, page layouts, typography, and navigation patterns are reused throughout the interface.
-
-Visual Hierarchy
-Spacing, typography, headings, cards, and content grouping help distinguish important information from supporting details.
-
-Responsive Design
-Layouts are designed to adapt to different viewport sizes using flexible CSS layouts and media queries.
-
-Simplicity
-The interface avoids unnecessary complexity so users can focus on discovering opportunities and collaborators.
-
-
-Purpose
-CampusCollab was created as a web-design and front-end development project demonstrating responsive interface design with HTML and CSS. It can also serve as a foundation for a future full-stack student collaboration platform.
+* Human–Computer Interaction
+* User Interface Design
+* User Experience Design
+* Responsive Web Design
+* Front-End Development
+* Information Architecture
+* Visual Hierarchy
+* HTML & CSS
